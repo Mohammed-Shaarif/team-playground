@@ -1,0 +1,7 @@
+git clone https://github.com/Mohammed-Shaarif/team-playground.git
+
+git remote add origin https://github.com/Mohammed-Shaarif/team-playground.git
+
+git checkout -b feature
+
+git push --set-upstream origin feature
