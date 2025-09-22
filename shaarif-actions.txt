@@ -1,2 +1,9 @@
 git clone https://github.com/Mohammed-Shaarif/team-playground.git
 
+git add .
+git commit -m "update 1"
+git push
+
+git add .
+git commit -m "update 1"
+git push -u origin feature1
